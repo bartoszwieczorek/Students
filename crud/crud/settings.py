@@ -89,7 +89,7 @@ WSGI_APPLICATION = 'crud.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'djongo',
-        'NAME': 'newdb',
+        'NAME': 'studentdb',
     }
 }
 
